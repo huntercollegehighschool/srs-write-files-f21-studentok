@@ -64,7 +64,7 @@ for questionNum in range(50):  # loop through each of the 50 states
   # 9. Write the correct answer to the answer key file. It's up to you how you want to format it, but it probably should include the question number, the correct answer letter, and the correct capital.
   # <list>.index(<value>) may be helpful
   # <filevariable>.write(<text>)
-  answerfile.write('Question ' + str(questionNum) + 'Answer: ' + correct + '\n')
+  answerfile.write('Question ' + str(questionNum) + ' Answer: ' + correct + '\n')
 
 
 # 10. After completely writing both the quiz and the answer key, make sure to close both files.
