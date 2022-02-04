@@ -1,0 +1,301 @@
+US Capital Quiz 1
+What is the capital of Hawaii? 
+ <A> Montpelier
+ <B> Honolulu
+ <C> Columbus
+ <D> Cheyenne
+ <E> Carson City
+What is the capital of New Mexico? 
+ <A> Santa Fe
+ <B> Carson City
+ <C> Montgomery
+ <D> Augusta
+ <E> Hartford
+What is the capital of Idaho? 
+ <A> Madison
+ <B> Olympia
+ <C> Des Moines
+ <D> Juneau
+ <E> Boise
+What is the capital of Wyoming? 
+ <A> Columbia
+ <B> Cheyenne
+ <C> Albany
+ <D> Trenton
+ <E> Baton Rouge
+What is the capital of Connecticut? 
+ <A> Hartford
+ <B> Annapolis
+ <C> Augusta
+ <D> Des Moines
+ <E> Salt Lake City
+What is the capital of Vermont? 
+ <A> Montpelier
+ <B> Atlanta
+ <C> Augusta
+ <D> Annapolis
+ <E> Bismarck
+What is the capital of Kansas? 
+ <A> Columbus
+ <B> Topeka
+ <C> Oklahoma City
+ <D> Helena
+ <E> Montpelier
+What is the capital of Oklahoma? 
+ <A> Olympia
+ <B> Harrisburg
+ <C> Springfield
+ <D> Annapolis
+ <E> Oklahoma City
+What is the capital of Delaware? 
+ <A> Trenton
+ <B> Juneau
+ <C> Richmond
+ <D> Dover
+ <E> Hartford
+What is the capital of Arizona? 
+ <A> Des Moines
+ <B> Phoenix
+ <C> Montpelier
+ <D> Boise
+ <E> Atlanta
+What is the capital of Massachusetts? 
+ <A> Raleigh
+ <B> Topeka
+ <C> Lansing
+ <D> Frankfort
+ <E> Boston
+What is the capital of Ohio? 
+ <A> Columbus
+ <B> Charleston
+ <C> Lincoln
+ <D> Austin
+ <E> Tallahassee
+What is the capital of Kentucky? 
+ <A> Oklahoma City
+ <B> Columbia
+ <C> Concord
+ <D> Frankfort
+ <E> Carson City
+What is the capital of Maryland? 
+ <A> Annapolis
+ <B> Frankfort
+ <C> Saint Paul
+ <D> Jefferson City
+ <E> Concord
+What is the capital of Oregon? 
+ <A> Concord
+ <B> Columbia
+ <C> Santa Fe
+ <D> Jefferson City
+ <E> Salem
+What is the capital of Mississippi? 
+ <A> Juneau
+ <B> Boise
+ <C> Jackson
+ <D> Charleston
+ <E> Salem
+What is the capital of North Dakota? 
+ <A> Little Rock
+ <B> Atlanta
+ <C> Des Moines
+ <D> Bismarck
+ <E> Providence
+What is the capital of Missouri? 
+ <A> Harrisburg
+ <B> Pierre
+ <C> Des Moines
+ <D> Indianapolis
+ <E> Jefferson City
+What is the capital of Florida? 
+ <A> Montpelier
+ <B> Cheyenne
+ <C> Tallahassee
+ <D> Columbus
+ <E> Salem
+What is the capital of New Jersey? 
+ <A> Trenton
+ <B> Columbia
+ <C> Annapolis
+ <D> Jefferson City
+ <E> Des Moines
+What is the capital of West Virginia? 
+ <A> Charleston
+ <B> Des Moines
+ <C> Richmond
+ <D> Juneau
+ <E> Lansing
+What is the capital of New York? 
+ <A> Atlanta
+ <B> Salem
+ <C> Albany
+ <D> Phoenix
+ <E> Dover
+What is the capital of Wisconsin? 
+ <A> Montgomery
+ <B> Des Moines
+ <C> Augusta
+ <D> Madison
+ <E> Raleigh
+What is the capital of Maine? 
+ <A> Nashville
+ <B> Trenton
+ <C> Tallahassee
+ <D> Lansing
+ <E> Augusta
+What is the capital of Illinois? 
+ <A> Santa Fe
+ <B> Austin
+ <C> Annapolis
+ <D> Springfield
+ <E> Pierre
+What is the capital of Washington? 
+ <A> Phoenix
+ <B> Harrisburg
+ <C> Olympia
+ <D> Lincoln
+ <E> Pierre
+What is the capital of Nevada? 
+ <A> Providence
+ <B> Tallahassee
+ <C> Helena
+ <D> Dover
+ <E> Carson City
+What is the capital of North Carolina? 
+ <A> Concord
+ <B> Raleigh
+ <C> Nashville
+ <D> Jefferson City
+ <E> Austin
+What is the capital of Virginia? 
+ <A> Sacramento
+ <B> Richmond
+ <C> Madison
+ <D> Atlanta
+ <E> Saint Paul
+What is the capital of Colorado? 
+ <A> Des Moines
+ <B> Denver
+ <C> Montgomery
+ <D> Nashville
+ <E> Dover
+What is the capital of Minnesota? 
+ <A> Providence
+ <B> Carson City
+ <C> Columbia
+ <D> Olympia
+ <E> Saint Paul
+What is the capital of Montana? 
+ <A> Annapolis
+ <B> Columbus
+ <C> Helena
+ <D> Columbia
+ <E> Cheyenne
+What is the capital of Indiana? 
+ <A> Harrisburg
+ <B> Honolulu
+ <C> Jefferson City
+ <D> Indianapolis
+ <E> Salt Lake City
+What is the capital of Alaska? 
+ <A> Juneau
+ <B> Frankfort
+ <C> Madison
+ <D> Cheyenne
+ <E> Nashville
+What is the capital of Texas? 
+ <A> Honolulu
+ <B> Salem
+ <C> Annapolis
+ <D> Jefferson City
+ <E> Austin
+What is the capital of Tennessee? 
+ <A> Hartford
+ <B> Augusta
+ <C> Denver
+ <D> Montgomery
+ <E> Nashville
+What is the capital of Iowa? 
+ <A> Saint Paul
+ <B> Tallahassee
+ <C> Des Moines
+ <D> Atlanta
+ <E> Frankfort
+What is the capital of South Carolina? 
+ <A> Annapolis
+ <B> Columbia
+ <C> Montgomery
+ <D> Charleston
+ <E> Des Moines
+What is the capital of Pennsylvania? 
+ <A> Boise
+ <B> Harrisburg
+ <C> Nashville
+ <D> Annapolis
+ <E> Honolulu
+What is the capital of Arkansas? 
+ <A> Carson City
+ <B> Montpelier
+ <C> Helena
+ <D> Little Rock
+ <E> Pierre
+What is the capital of Utah? 
+ <A> Pierre
+ <B> Jefferson City
+ <C> Albany
+ <D> Dover
+ <E> Salt Lake City
+What is the capital of Rhode Island? 
+ <A> Boston
+ <B> Springfield
+ <C> Oklahoma City
+ <D> Albany
+ <E> Providence
+What is the capital of New Hampshire? 
+ <A> Lincoln
+ <B> Lansing
+ <C> Concord
+ <D> Columbus
+ <E> Cheyenne
+What is the capital of South Dakota? 
+ <A> Salt Lake City
+ <B> Olympia
+ <C> Pierre
+ <D> Boise
+ <E> Columbia
+What is the capital of Georgia? 
+ <A> Boston
+ <B> Atlanta
+ <C> Salt Lake City
+ <D> Austin
+ <E> Topeka
+What is the capital of Nebraska? 
+ <A> Topeka
+ <B> Trenton
+ <C> Lincoln
+ <D> Springfield
+ <E> Concord
+What is the capital of Alabama? 
+ <A> Oklahoma City
+ <B> Dover
+ <C> Montgomery
+ <D> Phoenix
+ <E> Austin
+What is the capital of California? 
+ <A> Sacramento
+ <B> Lansing
+ <C> Trenton
+ <D> Columbus
+ <E> Concord
+What is the capital of Louisiana? 
+ <A> Baton Rouge
+ <B> Columbia
+ <C> Jefferson City
+ <D> Boise
+ <E> Tallahassee
+What is the capital of Michigan? 
+ <A> Albany
+ <B> Helena
+ <C> Lansing
+ <D> Frankfort
+ <E> Concord
